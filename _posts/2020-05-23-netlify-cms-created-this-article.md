@@ -1,12 +1,13 @@
 ---
+title: Netlify CMS created this Article
 layout: post
 author: John Doe
-title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
-thumbnail: /assets/img/posts/hello.jpg
-category: jekyll
+date: '2020-05-23 09:52:20 +0000'
+thumbnail: "/assets/img/posts/hello.jpg"
+category: jekyll demo
 summary: Demo Content using Netlify CMS
 ---
+
 # Hello World ,
 
 This page is a demo that shows everything you can do inside blog posts.
