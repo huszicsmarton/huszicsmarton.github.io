@@ -12,10 +12,6 @@ urls:
     url: /gallery
   - text: Kapcsolat
     url: /contact
-  - text: Styleguide
-    url: /styleguide
-  - text: Get Started
-    url: /get-started
 author_logo: profile.png
 author: Huszics Márton
 author_bio: >-
