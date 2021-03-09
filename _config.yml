@@ -16,7 +16,7 @@ author_logo: profile.png
 author: Huszics Márton
 author_bio: >-
   Üdvözöllek. Huszics Márotn vagyok. Ezt az oldalt az informatikai
-  tevékenységeim végett hoztam létre. Ha nem IT-val foglalkozok, akkor családommal töltöm az időt, de gitározok, zenét szerzek, koncertet szervezek, önjelölt hangmérnök tevékenységet űzök. Érdekel a biztonságtechnika valamint Raspberry pi-vel építek otthoni megoldásokat.
+  tevékenységeim végett hoztam létre. Ha nem IT-val foglalkozok, akkor családommal töltöm az időt, tanítok, de gitározok, zenét szerzek, koncertet szervezek, önjelölt hangmérnök tevékenységet űzök. Érdekel a biztonságtechnika valamint Raspberry pi-vel építek otthoni megoldásokat. Ha még marad időm, akkor kicsit barkácsolok vagy szépítem a házunk.
 author_email: huszicsmarton@gmail.com
 author_location: 'Magyarország, Székesfehérvár'
 author_website_url: 'http://huszicsmarton.github.io'
@@ -63,10 +63,9 @@ author_education_details:
     college_degree: 'Mérnök Informatikus, Hálózati rendszermérnök'
     visibility: true
 author_project_details:
-  - project_thumbnail: gamershub.png
-    project_title: Gamers Hub
-    project_description: A Platform built for Gamers and Game Devs
-    project_url: 'https://gamershub.in'
+    project_title: Suliwebex.hu weboldal
+    project_description: Kollégámmal valamint sok tartalomkészítővel közösen elkészítettük az oldalt, ami segítség az oktatásban.
+    project_url: 'https://suliwebex.hu'
     visibility: true
   - project_thumbnail: ftv_android.jpg
     project_title: Fehérvár TV Android app
