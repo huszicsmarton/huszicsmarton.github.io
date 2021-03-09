@@ -34,27 +34,27 @@ author_work_experiences:
     company_logo: oe.png
     company_url: 'http://www.amk.uni-obuda.hu/'
     designation: Órai elóadó
-    description: Mobil alkalmazás fejlesztés android környezetben.
+    description: '3 tantárgy oktatása: Android alkalmazás fejlesztés, iOS mobilalkalmazás fejlesztés, Felhőszolgáltatások elmélet és gyakorlat'
     visibility: true
 author_education_details:
   - college_logo: ibm.png
     college_name: IBM
-    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_url: 'https://www.youracclaim.com/badges/6ff74c1f-40c2-4bb3-86ad-60d99ee44b3f?source=linked_in_profile'
     college_degree: Containers & Kubernetes Essentials
     visibility: true
   - college_logo: ibm.png
     college_name: IBM
-    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_url: 'https://www.youracclaim.com/badges/8a36b925-dd50-4869-a2a4-a408e91cd48f?source=linked_in_profile'
     college_degree: IBM Cloud Essentials v3
     visibility: true
   - college_logo: ibm.png
     college_name: IBM
-    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_url: 'https://www.youracclaim.com/badges/5cb37633-2b83-43df-95e4-badf1636ca2e?source=linked_in_profile'
     college_degree: Cloud Core
     visibility: true
   - college_logo: cognitive_class.png
     college_name: Cognitive Class
-    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_url: 'https://courses.cognitiveclass.ai/certificates/e2e0ea788db4413c9309215fdc01d6d7'
     college_degree: Introduction to Cloud
     visibility: true
   - college_logo: oe.png
@@ -67,12 +67,12 @@ author_education_details:
     college_url: 'https://netacademia.hu/'
     college_degree: Node.js Application development
     visibility: true
-  - college_logo: oe.png
+  - college_logo: na.png
     college_name: Training360
     college_url: 'https://www.training360.com/'
     college_degree: Angular 2 plus framework
     visibility: true
-  - college_logo: oe.png
+  - college_logo: na.png
     college_name: Training360
     college_url: 'https://www.training360.com/'
     college_degree: Enterprise alkalmazásfejlesztés Java EE környezetben (JAVAX-EE)
