@@ -379,7 +379,7 @@ header {
     font-size: 35px;
     -webkit-box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88); 
     box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88);
-    background: #000000;
+    background: var(--main-background-color);
 }
 
 .lead {
@@ -388,7 +388,7 @@ header {
     color: #fff !important;
     -webkit-box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88); 
     box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88);
-    background: #000000;
+    background: var(--main-background-color);
 }
 
 .fa {
