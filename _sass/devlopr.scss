@@ -375,7 +375,7 @@ header {
 }
 
 .jumbotron-heading{
-    color: #fff;
+    color: var(--bold-color) !important;
     font-size: 35px;
     -webkit-box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88); 
     box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88);
@@ -385,7 +385,7 @@ header {
 .lead {
     font-size: 1.30rem !important;
     font-weight: 600;
-    color: #fff !important;
+    color: var(--bold-color) !important;
     -webkit-box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88); 
     box-shadow: 13px 13px 28px -3px rgba(76,76,76,0.88);
     background: var(--main-background-color);
