@@ -63,6 +63,7 @@ author_education_details:
     college_degree: 'Mérnök Informatikus, Hálózati rendszermérnök'
     visibility: true
 author_project_details:
+  - project_thumbnail: suliwebex.png
     project_title: Suliwebex.hu weboldal
     project_description: Kollégámmal valamint sok tartalomkészítővel közösen elkészítettük az oldalt, ami segítség az oktatásban.
     project_url: 'https://suliwebex.hu'
