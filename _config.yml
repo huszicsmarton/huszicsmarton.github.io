@@ -6,7 +6,7 @@ baseurl: ''
 urls:
   - text: Rólam
     url: /about
-  - text: Blog
+  - text: Írások
     url: /blog
   - text: Képek
     url: /gallery
