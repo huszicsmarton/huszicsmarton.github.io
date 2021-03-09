@@ -37,6 +37,26 @@ author_work_experiences:
     description: Mobil alkalmazás fejlesztés android környezetben.
     visibility: true
 author_education_details:
+  - college_logo: ibm.png
+    college_name: IBM
+    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_degree: Containers & Kubernetes Essentials
+    visibility: true
+  - college_logo: ibm.png
+    college_name: IBM
+    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_degree: IBM Cloud Essentials v3
+    visibility: true
+  - college_logo: ibm.png
+    college_name: IBM
+    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_degree: Cloud Core
+    visibility: true
+  - college_logo: cognitive_class.png
+    college_name: Cognitive Class
+    college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
+    college_degree: Introduction to Cloud
+    visibility: true
   - college_logo: oe.png
     college_name: Scademy
     college_url: 'https://cert.scademy.com/certificate/rcmzbCchXrCiXNkFvpMz'
