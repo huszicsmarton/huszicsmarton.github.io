@@ -83,6 +83,11 @@ author_education_details:
     college_degree: 'Mérnök Informatikus, Hálózati rendszermérnök'
     visibility: true
 author_project_details:
+  - project_thumbnail: dobkupec.png
+    project_title: Dobkupec.hu weboldal
+    project_description: Dobokkal foglalkozó információs oldalt készítettem. Konténer és a CI/CD megoldásokkal, statikus külsővel és SPA megjelenéssel.
+    project_url: 'https://www.dobkupec.hu'
+    visibility: true
   - project_thumbnail: suliwebex.png
     project_title: Suliwebex.hu weboldal
     project_description: Kollégámmal valamint sok tartalomkészítővel közösen elkészítettük az oldalt, ami segítség az oktatásban.
